@@ -1,2 +1,1 @@
-# dotnet-sockets-playground
-.NET sockets playground
+# .NET sockets playground
